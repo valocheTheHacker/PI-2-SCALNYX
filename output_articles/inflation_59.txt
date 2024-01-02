@@ -1,0 +1,25 @@
+Title: Automakers may get leeway with stricter EV tax credit sourcing rules
+
+Content: The new and somewhat-complicated rules governing which cars do or don't qualify for the new clean vehicle tax credit look like they might get tweaked a little in the near future.
+
+Before, the tax credit was linked to the battery-storage capacity of a plug-in hybrid or battery-electric vehicle. But the Inflation Reduction Act changed that—now a range of conditions must be met, including final assembly in North America and an annually increasing percentage of locally sourced minerals and components within that battery pack.
+
+On the one hand, the domestic sourcing requirements are beneficial because they are stimulating the development of local battery mineral refining and manufacturing here in the United States, adding well-paying jobs in the process. But the new rules have also significantly reduced the number of EVs that qualify.
+
+For 2023, $3,750 of the clean vehicle tax credit is available if 40 percent of the critical minerals in the battery pack were extracted or refined in the US, or a country with which we have a free trade agreement. The other $3,750 is linked to the economic value of the battery components—for this year, 50 percent of that value must come from components manufactured or assembled in the US.
+
+(N.B.—these rules don't apply to leased clean vehicles, many more of which are eligible for the full $7,500 tax credit.)
+
+Advertisement
+
+So far so good, but each year the required percentage of domestically extracted or refined critical minerals, and the percentage of value manufactured or assembled in the US increases by 10 percent. That will likely make some now-qualifying clean vehicles ineligible from next year.
+
+Indeed, in July Tesla started warning potential customers that while the Model 3 is currently eligible for the full $7,500 credit, it is likely to change for the worse at the start of 2024.
+
+Optimists say that these requirements were put into the IRA by Sen. Joe Manchin (D-W.V.) in order to grow our domestic battery industry. Cynics may retort that Manchin has regularly and vociferously opposed any EV rebates and may simply have been trying to make as many cars as possible ineligible for as long as possible.
+
+Most recently, Manchin has been vocal about his wish to see the US Treasury use "the strictest possible standards" in enforcing the rules, such that any EV with Chinese-made batteries or minerals refined in China would be excluded. The IRS rules specify that batteries linked to "foreign entities of concern" are ineligible for the credit, but as yet has not published rules on what it considers to be a "foreign entity of concern." Given the close links between the Chinese Communist Party and China's EV industry, a broad brush could cover a wide range of brands and vehicles.
+
+But Manchin is not the only US Senator with a dog in this fight. Sen. Debbie Stabenow (D-Mich.) told Bloomberg that "we're in ongoing discussions" with the US Treasury and Department of Energy and that "I certainly weighed in to express support for the concerns of the automakers."
+
+The IRS guidance on how it will define "foreign entities of concern" is due later this week, which should clear up just how much Chinese content makes an EV ineligible for a tax credit.
